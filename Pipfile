@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 zappa = "*"
-django = "==2.1"
+django = "==2.1.11"
 django-rest-framework = "*"
 awscli = "*"
 pymysql = "*"
