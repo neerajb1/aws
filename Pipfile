@@ -12,6 +12,8 @@ django-rest-framework = "*"
 awscli = "*"
 pymysql = "*"
 pandas = "*"
+django-s3-storage = "*"
+django-storages = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
